@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Introduction-to-Java:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Introduction_to_Java_jar</output-path>
+    <root id="archive" name="Introduction-to-Java.jar">
+      <element id="module-output" name="Introduction-to-Java" />
+    </root>
+  </artifact>
+</component>

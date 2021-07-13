@@ -1,9 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Introduction-to-Java:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="a7002422-7528-4dcf-a9bc-455767071a35" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/datatypesjava/datatypesjava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Introduction_to_Java_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datatypesjava/.idea/artifacts/datatypesjava_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datatypesjava/.idea/artifacts/datatypesjava_jar2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datatypesjava/out/artifacts/datatypesjava_jar/datatypesjava.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datatypesjava/out/production/datatypesjava/DataTypes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datatypesjava/out/production/datatypesjava/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datatypesjava/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Casting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DoWhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Funciones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IfStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IncrementDecrement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LogicOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MathematicOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwitchStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WhileLoop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datatypesjava/src/DataTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/datatypesjava/src/DataTypes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,42 +54,54 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="1v3VdI5HTyAEsvpmtrI6eK0JtVo" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
   </component>
-  <component name="RunManager" selected="Application.Namingjava">
-    <configuration name="HolaMundo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HolaMundo" />
+  <component name="RunManager" selected="Application.Arrays">
+    <configuration name="Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays" />
       <module name="Introduction-to-Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Namingjava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Namingjava" />
+    <configuration name="DoWhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DoWhileLoop" />
       <module name="Introduction-to-Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UpdatingVariables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UpdatingVariables" />
+    <configuration name="ForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForLoop" />
       <module name="Introduction-to-Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Variables" />
+    <configuration name="Funciones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Funciones" />
+      <module name="Introduction-to-Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WhileLoop" />
       <module name="Introduction-to-Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -72,10 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Namingjava" />
-        <item itemvalue="Application.UpdatingVariables" />
-        <item itemvalue="Application.Variables" />
-        <item itemvalue="Application.HolaMundo" />
+        <item itemvalue="Application.Arrays" />
+        <item itemvalue="Application.ForLoop" />
+        <item itemvalue="Application.WhileLoop" />
+        <item itemvalue="Application.DoWhileLoop" />
+        <item itemvalue="Application.Funciones" />
       </list>
     </recent_temporary>
   </component>
@@ -101,5 +139,8 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
